@@ -133,9 +133,24 @@ h2
 	font-family		: Comic Sans MS;
 	text-align		: center;
 	font-size		: 20px;
-	background		: rgba(255,255,255,0);
+	background		: rgba(255,255,255,0.8);
 	display			: inline-block;
 	width			: 620px;
+	text-decoration	: none;
+	border			: 3px solid rgb(255, 71, 26);
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+.tengah1
+{
+	color			: rgb(0,0,0);
+	font-family		: Comic Sans MS;
+	text-align		: center;
+	font-size		: 20px;
+	background		: rgba(255,255,255,0.8);
+	display			: inline-block;
+	width			: 300px;
 	text-decoration	: none;
 	border			: 3px solid rgb(255, 71, 26);
 	border-radius	: 10px;
