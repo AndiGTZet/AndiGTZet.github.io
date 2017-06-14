@@ -1,0 +1,199 @@
+body
+{
+	background-image		: url("Kagura.jpg");
+	background-repeat		: no-repeat;
+	background-size			: cover;
+	background-attachment 	: fixed;
+}
+
+h1
+{
+	font-family		: 'Farsan', cursive;
+	color			: white;
+	font-size		: 50px;
+	text-align		: center;
+	background		: black;
+	border			: 7px solid rgb(205, 205, 177);
+	border-radius	: 10px;
+}
+
+h2
+{
+	font-family	: 'Iceland', cursive;
+	color		: Black;
+	font-size	: 15px;
+	text-align	: center;
+}
+
+#List1
+{
+	text-align	: right;
+}
+
+.List
+{
+	text-align	: center;
+}
+
+#form
+{
+	font-family	: Comic Sans MS;
+}
+
+/* Dikunjungi */
+.Menu:link
+{
+	background	: #ffa5b5;
+	color		: white;
+}
+
+/* Mouse */
+.Menu:hover
+{
+	background	: #f442d1;
+	color		: Black;
+}
+
+/* Berada
+.Menu:active
+{
+	background	: red;
+	color		: white;
+} */
+
+.Menu
+{
+	color			: rgb(255,255,255);
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: #ffa5b5;
+	display			: inline-block;
+	width			: 150px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+/* Dikunjungi */
+#Menu1:link
+{
+	background	: rgb(255, 255, 77);
+	color		: black;
+}
+
+/* Mouse */
+#Menu1:hover
+{
+	background	: rgb(255, 204, 0);
+	color		: rgb(255, 255, 77);
+}
+
+/* Berada
+#Menu1:active
+{
+	background	: red;
+	color		: white;
+} */
+
+#Menu1
+{
+	color			: black;
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: rgb(255, 255, 77);
+	display			: inline-block;
+	width			: 50px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+.awal
+{
+	color			: rgb(255, 255, 255);
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: rgb(0, 0, 0);
+	display			: inline-block;
+	width			: 200px;
+	text-decoration	: none;
+	border			: 3px solid red;
+	border-radius	: 7px;
+	padding			: 10px;
+}
+
+.tengah
+{
+	color			: rgb(0,0,0);
+	font-family		: Comic Sans MS;
+	text-align		: center;
+	font-size		: 20px;
+	background		: rgba(255,255,255,0.8);
+	display			: inline-block;
+	width			: 620px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+.tengah1
+{
+	color			: rgb(0,0,0);
+	font-family		: Comic Sans MS;
+	text-align		: center;
+	font-size		: 20px;
+	background		: rgba(255,255,255,0.8);
+	display			: inline-block;
+	width			: 300px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+/* Dikunjungi */
+#END:link
+{
+	background	: black;
+	color		: white;
+}
+
+/* Mouse */
+#END:hover
+{
+	background	: white;
+	color		: black;
+}
+
+/* Berada
+#END:active
+{
+	background	: red;
+	color		: white;
+} */
+
+#END
+{
+	color			: rgb(255,255,255);
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: black;
+	display			: inline-block;
+	width			: 100px;
+	text-decoration	: none;
+	border			: 3px solid red;
+	border-radius	: 3px;
+	padding			: 10px;
+}
+
+.pilih
+{
+	text-align		: left;
+}
