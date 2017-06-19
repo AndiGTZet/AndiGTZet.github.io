@@ -4,16 +4,16 @@ var a_nya	= [a1, a2, a3, a4, a5, a6, a7, a8, a9, a10];
 var a_nya2	= ['a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'a7', 'a8', 'a9', 'a10'];
 var soalnya	=
 [
-"Luas bangun persegi panjang dengan panjang 4 cm & lebar 2 cm adalah ... cm2.",
-"Kebun Ayah berbentuk persegi dengan luas 81 m2. Panjang sisi kebun tersebut adalah ... cm.",
-"Kolam Pak Usman berbentuk persegi panjang. Panjangnya 12 m dan lebar 8 m. Luas kolam Pak Usman adalah ... m2.",
-"Ibu membuat kue bolu. Kue itu dibagi menjadi 6 bagian yang sama besar. Kemudian 2/6 bagian di makan Andi dan 1/6 bagian di makan Mita. Sisa kue bolu Ibu sekarang adalah .../6 bagian.",
+"Luas bangun persegi panjang dengan panjang 4 cm & lebar 2 cm adalah ... cm<sup>2</sup>.",
+"Kebun Ayah berbentuk persegi dengan luas 81 m<sup>2</sup>. Panjang sisi kebun tersebut adalah ... cm.",
+"Kolam Pak Usman berbentuk persegi panjang. Panjangnya 12 m dan lebar 8 m. Luas kolam Pak Usman adalah ... m<sup>2</sup>.",
+"Ibu membuat kue bolu. Kue itu dibagi menjadi 6 bagian yang sama besar. Kemudian <sup>2</sup>/<sub>6</sub> bagian di makan Andi dan &frac16; bagian di makan Mita. Sisa kue bolu Ibu sekarang adalah <sup>...</sup>/<sub>6</sub> bagian.",
 "Panjang buku gambar adik 22 cm dan 10 cm. Kelilingnya adalah ... cm.",
 "Keliling bangun persegi yang memiliki sisi 17 cm adalah ... cm.",
-"Bu Mirna membeli pita sepanjang 10/5 meter. Diberikan kepada 2 anaknya masing-masing 4/5 meter. Berapa .../10 meter sisa pita Bu Mirna sekarang?",
+"Bu Mirna membeli pita sepanjang <sup>10</sup>/<sub>5</sub> meter. Diberikan kepada 2 anaknya masing-masing &frac45; meter. Berapa <sup>...</sup>/<sub>10</sub> meter sisa pita Bu Mirna sekarang?",
 "Permukaan papan tulis di kelas 3 mempunyai ... sudut.",
-"Jam 03.00 membentuk sudut ... derajat.",
-"Jam 06.00 membentuk sudut ... derajat."
+"Jam 03.00 membentuk sudut ... &deg.",
+"Jam 06.00 membentuk sudut ... &deg."
 ];
 
 	for(var i = 0; i < a_nya.length; i++)
