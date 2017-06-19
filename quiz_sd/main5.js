@@ -4,10 +4,10 @@ var a_nya	= [a1, a2, a3, a4, a5, a6, a7, a8, a9, a10];
 var a_nya2	= ['a1', 'a2', 'a3', 'a4', 'a5', 'a6', 'a7', 'a8', 'a9', 'a10'];
 var soalnya	=
 [
-"23/100 = ... %",
+"<sup>23</sup>/<sub>100</sub> = ... %",
 "1,35 = ... %",
 "Ada 10 buku. 6 buku bersampul coklat. Persentase buku bersampul coklat adalah ... %",
-"Bentuk desimal dari 3/8 adalah ?",
+"Bentuk desimal dari <sup>3</sup>/<sub>8</sub> adalah ?",
 "20% dari 15.000 adalah ?",
 "Harga sebuah baju adalah Rp. 150.000,00. Ternyata ada potongan 15%. Harga baju itu sekarang adalah ?",
 "Hasil dari 0,81 x 5,9 = n. n adalah ?",
