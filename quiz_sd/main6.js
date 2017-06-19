@@ -10,9 +10,9 @@ var soalnya	=
 "Sebuah kalkulator bila dijual Rp 91.800,00 untung 8%. Harga pembelian kalkulator adalah Rp ... ,00.",
 "FPB dari 84 dan 112 adalah ?",
 "KPK dari 24 dan 40 adalah ?",
-"Debit sebuah pancuran 8 liter/detik. Bila dalam waktu 2.5 jam, maka air yang ditampung sebanyak ... m3.",
+"Debit sebuah pancuran 8 liter/detik. Bila dalam waktu 2.5 jam, maka air yang ditampung sebanyak ... m<sup>3</sup>.",
 "Jumlah umur Deni dan Anto 36 tahun, Deni 4 tahun lebih tua daripada Anto. Umur Deni adalah ... tahun.",
-"Suhu di Athena saat ini 59 derajat farenheit. Suhu tersebut sama dengan suhu di puncak Jaya Wijaya. Suhu di puncak Jaya Wijaya saat itu ... derajat celcius.",
+"Suhu di Athena saat ini 59&degF. Suhu tersebut sama dengan suhu di puncak Jaya Wijaya. Suhu di puncak Jaya Wijaya saat itu ... &degC.",
 "Hasil ulangan rata-rata 8 anak 6,7. Setelah ditambah hasil ulangan Nurul, rata-ratanya menjadi 6,9. Hasil ulangan Nurul adalah ?"
 ];
 
