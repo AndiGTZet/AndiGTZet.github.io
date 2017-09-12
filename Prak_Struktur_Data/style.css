@@ -1,0 +1,116 @@
+body
+{
+	background-image		: url("Hibari Kyouya.jpg");
+	background-repeat		: no-repeat;
+	background-size			: cover;
+	background-attachment 	: fixed;
+}
+
+h1
+{
+	font-family	: 'Farsan', cursive;
+	color		: white;
+	font-size	: 50px;
+	text-align	: center;
+	background	: rgba(204,8,204,0.7);
+}
+
+#h2
+{
+	font-family	: 'Iceland', cursive;
+	color		: white;
+	font-size	: 20px;
+	text-align	: center;
+	background	: rgba(204,8,204,0.7);
+	width		: 150px;
+	position	: absolute;
+	top			: 35px
+}
+
+#List1
+{
+	text-align	: right;
+}
+
+.List
+{
+	text-align	: center;
+}
+
+/* Dikunjungi */
+#Menu1:link
+{
+	background	: #E137E1;
+	color		: white;
+}
+
+/* Mouse */
+#Menu1:hover
+{
+	background	: black;
+	color		: #ba0bba;
+	border		: 3px solid #ba0bba;
+}
+
+/* Berada
+#Menu1:active
+{
+	background	: red;
+	color		: white;
+} */
+
+#Menu1
+{
+	color			: white;
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: #E137E1;
+	display			: inline-block;
+	width			: 50px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+.awal
+{
+	color			: white;
+	font-family		: sans-serif;
+	text-align		: center;
+	font-size		: 20px;
+	background		: black;
+	display			: inline-block;
+	width			: 300px;
+	text-decoration	: none;
+	border			: 3px solid grey;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+.tengah
+{
+	color			: rgb(0,0,0);
+	font-family		: Comic Sans MS;
+	text-align		: center;
+	font-size		: 30px;
+	background		: rgba(255,255,255,0.8);
+	display			: inline-block;
+	width			: 660px;
+	text-decoration	: none;
+	border			: 3px solid black;
+	border-radius	: 10px;
+	padding			: 10px;
+}
+
+#a1
+{
+	text-align		: left;
+	margin-left		: 100px;
+}
+
+#a2
+{
+	text-align		: left;
+}
